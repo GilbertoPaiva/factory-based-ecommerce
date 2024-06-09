@@ -8,6 +8,11 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/encodings.xml
+.idea/material_theme_project_new.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/.gitignore
 *.iws
 *.iml
 *.ipr
@@ -36,4 +41,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
 /.idea/
